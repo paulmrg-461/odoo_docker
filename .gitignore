@@ -1,0 +1,10 @@
+# Ignorar las carpetas donde Odoo y PostgreSQL guardan datos
+odoo_data/
+postgres_data/
+
+# Ignorar contenedores y otros archivos temporales de Docker
+*.log
+.env
+.idea/
+.vscode/
+__pycache__/
