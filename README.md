@@ -101,3 +101,15 @@ There’s no built-in color picker for the standard back-office UI, but overridi
 - **New functionalities**: Install official/third-party modules or develop your own **addons**.
 
 With these steps, you’ll have **Odoo** up and running with a customized look and functionalities suited to your business! 
+
+## Contact
+Developed by:
+Paul Realpe
+
+Email: co.devpaul@gmail.com
+
+Phone: 3148580454
+
+<a  href="https://devpaul.co">https://devpaul.co/</a>
+
+Feel free to reach out for any inquiries or collaborations!
